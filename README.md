@@ -4,8 +4,8 @@
 | **Types** | **Description** | **changes in base pair (bp)**|
 | :---: | :---: | :---: |
 |  | **---SMALL CHANGES IN DNA---** |  |
-| SNP | ... | 1 b |
-| Indels | ... | <= 1kb |
+| SNP | Single-nucleotide polymorphism | 1 b |
+| Indels | Small insterion and deletion | <= 1kb |
 |  | **---COPY NUMBER VARIANTS (CNV)---** |  |
 | Insertion | ... | > 1kb|
 | Deletions | ... | > 1kb |
