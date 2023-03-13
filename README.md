@@ -1,6 +1,6 @@
 # Calling-Mutations-on-NGS-data
 
-##Mutation types
+## Mutation types
 | **Types** | **Description** | **changes in base pair (bp)**|
 | :---: | :---: | :---: |
 |  | **---SMALL CHANGES IN DNA---** |  |
